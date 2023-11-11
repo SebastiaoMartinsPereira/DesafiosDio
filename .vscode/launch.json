@@ -5,13 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": ".NET Core Launch (console)",
+            "name": "Launch DesafiosFundamentos",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net6.0/DesafioFundamentos.dll",
+            "program": "${workspaceFolder}/trilha-net-fundamentos-desafios/DesafioFundamentos/bin/Debug/net6.0/DesafioFundamentos.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/trilha-net-fundamentos-desafio/DesafioFundamentos",
+            "cwd": "${workspaceFolder}/trilha-net-fundamentos-desafios/DesafioFundamentos",
             "console": "internalConsole",
             "stopAtEntry": false
         },
